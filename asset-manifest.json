@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CWReact/static/css/main.0cd5a0b9.css",
+    "main.js": "/CWReact/static/js/main.c5ff2164.js",
+    "static/js/453.ed3810f9.chunk.js": "/CWReact/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/CWReact/index.html",
+    "main.0cd5a0b9.css.map": "/CWReact/static/css/main.0cd5a0b9.css.map",
+    "main.c5ff2164.js.map": "/CWReact/static/js/main.c5ff2164.js.map",
+    "453.ed3810f9.chunk.js.map": "/CWReact/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cd5a0b9.css",
+    "static/js/main.c5ff2164.js"
+  ]
+}
